@@ -4,7 +4,7 @@
     "start",
     "stop"
   ],
-  "base_url": "https://midjourney-proxy-production-34e8.up.railway.app/mj/",
+  "base_url": "https://qxz.zeabur.app/mj/",
   "mj_keywords": {
     "IMAGINE": {
       "path": "submit/imagine",
